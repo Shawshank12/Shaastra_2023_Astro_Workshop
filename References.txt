@@ -1,0 +1,19 @@
+Plummer Model:
+https://en.wikipedia.org/wiki/Plummer_model
+http://www.artcompsci.org/kali/vol/multiple_runs/title.html#TOC
+
+IllustrisTNG simulation:
+https://www.tng-project.org/
+
+Millennium Simulation:
+https://wwwmpa.mpa-garching.mpg.de/galform/virgo/millennium/
+
+Code used in the workshop:
+https://github.com/Shawshank12/Shaastra_2023_Astro_Workshop
+
+Some interesting papers and articles:
+https://iopscience.iop.org/article/10.1088/0004-637X/756/2/167/meta
+https://academic.oup.com/mnras/article-abstract/516/1/1114/6671538?redirectedFrom=fulltext
+https://www.nature.com/articles/s42254-019-0127-2
+https://arxiv.org/abs/2104.12781
+
